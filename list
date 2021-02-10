@@ -1,0 +1,60 @@
+[33mcommit bb59f91461caef5d63d1fe24d56b694cef6db0f3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Sat Feb 6 16:58:44 2021 -0500
+
+    Etiqueta form e input
+
+[33mcommit fa5b45b0ee074276e9f9a11b130c9daf97a039dd[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Sat Feb 6 16:38:44 2021 -0500
+
+    Etiqueta video
+
+[33mcommit 318a1f960b83f0453518a3eade24df847449c739[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Sat Feb 6 16:12:02 2021 -0500
+
+    Etiqueta figure
+
+[33mcommit df69cb42ca9fe16b3fb6d9ba70570f263d7acb41[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Sat Feb 6 16:03:49 2021 -0500
+
+    Etiqueta img
+
+[33mcommit 56d88c7bfcf91660974a5f37953a67d3f1a5a3d7[m[33m ([m[1;32mlist[m[33m, [m[1;32mdelete[m[33m)[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Sat Feb 6 06:50:18 2021 -0500
+
+    Reto: crea tu lista de compras del supermercado
+
+[33mcommit f778cf145d65761e15f604419fe0e33f8727c22f[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Sat Feb 6 06:21:45 2021 -0500
+
+    Index y su estructura básica: body
+
+[33mcommit ec284b717c0736046151b74658b0262f7999d682[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Thu Feb 4 21:06:51 2021 -0500
+
+    Clase 1
+
+[33mcommit 633a97abf7e603a24f594af68375ae6ff86d954c[m
+Merge: 2641d4b cd441fc
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Wed Feb 3 22:48:54 2021 -0500
+
+    Merge branch 'main' of https://github.com/Drump3r/course-html-css into master
+
+[33mcommit 2641d4b4d75932616ca5b0b76082e77d48a10887[m
+Author: Brian <jacklevybrsg@gmail.com>
+Date:   Wed Feb 3 22:32:27 2021 -0500
+
+    initial commit
+
+[33mcommit cd441fcd22a5de9fa56b16017d5d34758c2abac5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Brian <65998720+Drump3r@users.noreply.github.com>
+Date:   Wed Feb 3 22:21:04 2021 -0500
+
+    Initial commit
