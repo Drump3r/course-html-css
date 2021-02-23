@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+}
+
+section {
+    text-align: center;
+}
+
+.divTitle {
+    position: relative;
+    bottom: -1.5rem;
+    border: 2px black dotted;
+    background-color: #32a852;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+}
+
+.divContent {
+    border: 0.2rem black solid;
+    border-radius: 1.5rem;
+    background-color:aliceblue  ;
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow:blue;
+    
+}
+
+.divContent figure {
+    margin: 0.5rem;
+}
+
+p {
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    margin: 7%;
+}
+
+.divContent p {
+    text-align: left;
+}
+
+h1 {
+    position: relative;
+    font-size: 4.2rem;
+    color: burlywood;
+}
