@@ -14,11 +14,12 @@ section {
 .divTitle {
     position: relative;
     bottom: -1.5rem;
-    border: 2px black dotted;
+    border: 2px black solid;
     background-color: #32a852;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 3%;
+    border-radius: 3.0rem;
 }
 
 .divContent {
