@@ -51,3 +51,16 @@ h1 {
     font-size: 4.2rem;
     color: burlywood;
 }
+
+img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    
+}
+
+@media(max-width: 767px) {
+    p {
+        font-size: 1.8rem;
+    }
+}
