@@ -61,6 +61,10 @@ img {
 
 @media(max-width: 767px) {
     p {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
+
+    }
+    h1 {
+        font-size: 3.4rem;
     }
 }
