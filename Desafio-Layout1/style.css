@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+nav {
+
+    background-color: #faeee7;
+}
+
+.nav li {
+    display: inline-block;
+    
+    
+}
+
+.nav ul{
+    text-align: left;
+}
+
+
+
+
+
+.nav a {
+    color: #33272a;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}   
