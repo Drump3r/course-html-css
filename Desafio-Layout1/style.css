@@ -3,19 +3,29 @@
     margin: 0;
     padding: 0;
 }
+html {
+    font-size: 62.5%;
+}
 
+.header__logo, .nav li, nav {
+    display: inline-block;
+    margin: 0.5rem;  
+      
+}
 
-
-nav {
-
+header {
     background-color: #faeee7;
 }
 
-.nav li {
-    display: inline-block;
-    
+nav {
+
+   
+    position: absolute;
+    right: 0;
     
 }
+
+
 
 .nav ul{
     text-align: left;
@@ -27,7 +37,8 @@ nav {
 
 .nav a {
     color: #33272a;
-    padding: 5px;
-    border-radius: 2px;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
     text-decoration: none;
+    font-size: 1.5rem;
 }   
